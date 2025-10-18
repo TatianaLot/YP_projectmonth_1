@@ -32,3 +32,5 @@
 - `/predict` - предсказание на основании входных данных, передаваемых в виде файла на Google Drive. Аутпут в формате JSON.
 
 Приложение запускается на сервере Colab. Код приложения и тестирование работы приложения в ноутбуке `app_code_test.ipynb`.
+
+Файлы модели также доступны по прямой ссылке https://drive.google.com/drive/folders/1U1uBovji3gmIOLXkaypxF1UnmD5ax3FX?usp=sharing 
